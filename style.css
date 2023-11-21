@@ -72,3 +72,22 @@ width: 120px;
     text-align: center;
 }
 
+.estudante-todos{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
+
+.Estudante-titulo{
+text-align: center;
+padding: 50px 0;
+}
+.rodapé{
+    background-color: black;
+    text-align: center;
+}
+
+.rodapé-imagem{
+    height: 60px;
+    padding: 12px 0;
+
+}
